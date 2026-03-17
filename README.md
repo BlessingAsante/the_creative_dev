@@ -70,12 +70,6 @@ Find the `testi-grid` section in `index.html` and copy one of the existing `test
 3. Set source to **Deploy from branch → main → / (root)**
 4. Save — your site will be live in ~1 minute
 
-### Custom Domain (Optional)
-1. Buy a domain (e.g. `thecreativedev.com`) from Namecheap, GoDaddy, etc.
-2. In GitHub Pages settings, enter your custom domain
-3. In your domain provider's DNS settings, add a **CNAME record** pointing to `yourusername.github.io`
-4. Enable **Enforce HTTPS** in GitHub Pages settings
-
 ---
 
 ## 🎨 Design System
