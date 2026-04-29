@@ -39,10 +39,10 @@ This is a **single-file website**. All three pages (Home, About, Store) are cont
 |---------|-------|------|
 | The Visual Story — Core Edition | ₵600 | [Selar](https://selar.co) |
 | Visual QuickStart — Entry Tier | ₵349 | [Selar](https://selar.co) |
-| The Ultimate Guide — Basics To Pro | ₵75 | [Selar](https://selar.co) |
-| Chaos To Calm: Overcoming Pitfalls | ₵35 | [Selar](https://selar.co) |
-| The Creative Core | Free | [Selar](https://selar.co) |
-| CopyWriting: Your Secret Weapon | Free | [Selar](https://selar.co) |
+| The Ultimate Guide — Basics To Pro | ₵200 | [Selar](https://selar.co) |
+| Chaos To Calm: Overcoming Pitfalls | ₵20 | [Selar](https://selar.co) |
+| The Creative Core | ₵20 | [Selar](https://selar.co) |
+| CopyWriting: Your Secret Weapon | ₵20 | [Selar](https://selar.co) |
 | The Finisher's Motivation Kit | Free | [Selar](https://selar.co) |
 
 ---
@@ -59,9 +59,7 @@ Search for `https://forms.microsoft.com` in `index.html` — there are 2 instanc
 The photos are embedded as base64 in the HTML. To swap a photo, re-generate the file with the new image using the same build process.
 
 ### Add a testimonial
-Find the `testi-grid` section in `index.html` and copy one of the existing `testi-card` blocks, then edit the text, author name and product name.
-
----
+Find the `testi-grid` section in `index.html`.
 
 ## 🚀 Deployment (GitHub Pages)
 
@@ -84,7 +82,7 @@ Find the `testi-grid` section in `index.html` and copy one of the existing `test
 ## 📬 Contact & Socials
 
 - Instagram: [@nhyi_nart](https://instagram.com/nhyi_nart)
-- Store: [selar.co/m/nhyira-arthur](https://selar.co/m/nhyira-arthur)
+- Store: [selar.co/m/nhyira-arthur](https://selar.com/m/nhyira-arthur1031767)
 
 ---
 
